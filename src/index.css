@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-dark: #3e2723;
+  --color-brand-amber: #c47f35;
+  --color-brand-caramel: #c89b6d;
+  --color-brand-bean: #4b2e2a;
+  --color-brand-lightBean: #6f4038;
+  --color-brand-cornsilk: #fff8e7;
+  --color-brand-cream: #f8f1e7;
+  --color-brand-card: #eee2d2;
+}
+html {
+  scroll-behavior: smooth;
+}
