@@ -28,7 +28,7 @@ function Footer({ onReserveTable }) {
               </p>
               <div class="flex items-center space-x-3">
                 <a
-                  href="https://www.instagram.com/_.kaifffff_29/profilecard/?igsh=MTk2YWxham5xdWFjaQ=="
+                  href="https://www.instagram.com/_.kaifffff_29?stkn=MTk2YWxham5xdWFjaQ=="
                   target="_blank"
                   rel="noopener noreferrer"
                   class="w-10 h-10 rounded-full bg-neutral-800 hover:bg-brand-amber text-white flex items-center justify-center transition-colors duration-200"
@@ -50,7 +50,7 @@ function Footer({ onReserveTable }) {
                   </svg>
                 </a>
                 <a
-                  href="https://github.com/kazikaif"
+                  href="https://github.com/Denycoding2004"
                   target="_blank"
                   rel="noopener noreferrer"
                   class="w-10 h-10 rounded-full bg-neutral-800 hover:bg-brand-amber text-white flex items-center justify-center transition-colors duration-200"
