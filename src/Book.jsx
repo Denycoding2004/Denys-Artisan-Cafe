@@ -95,7 +95,7 @@ function Book({ isOpen, onClose }) {
               <input
                 type="text"
                 required
-                placeholder="e.g. Kaif Kazi"
+                placeholder="e.g. Kaif"
                 className="w-full px-4 py-2.5 rounded-xl border border-neutral-300 bg-white focus:outline-none focus:ring-2 focus:ring-brand-amber text-sm text-neutral-800"
               />
             </div>
