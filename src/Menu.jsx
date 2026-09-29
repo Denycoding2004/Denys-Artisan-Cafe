@@ -35,7 +35,7 @@ function Menu({ onShowPopup }) {
                   />
 
                   <span className="absolute top-3 right-3 bg-brand-dark/90 text-brand-cornsilk text-xs font-bold px-3 py-1 rounded-full backdrop-blur-sm">
-                    ₹89
+                    ₹120
                   </span>
                 </div>
 
@@ -90,7 +90,7 @@ function Menu({ onShowPopup }) {
                   />
 
                   <span className="absolute top-3 right-3 bg-brand-dark/90 text-brand-cornsilk text-xs font-bold px-3 py-1 rounded-full backdrop-blur-sm">
-                    ₹100
+                    ₹125
                   </span>
                 </div>
 
@@ -145,7 +145,7 @@ function Menu({ onShowPopup }) {
                   />
 
                   <span className="absolute top-3 right-3 bg-brand-dark/90 text-brand-cornsilk text-xs font-bold px-3 py-1 rounded-full backdrop-blur-sm">
-                    ₹110
+                    ₹150
                   </span>
                 </div>
 
@@ -200,7 +200,7 @@ function Menu({ onShowPopup }) {
                   />
 
                   <span className="absolute top-3 right-3 bg-brand-dark/90 text-brand-cornsilk text-xs font-bold px-3 py-1 rounded-full backdrop-blur-sm">
-                    ₹125
+                    ₹175
                   </span>
                 </div>
 
